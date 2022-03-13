@@ -1,5 +1,5 @@
 import React from 'react';
-import { About, Contact, Experience, Header, Nav, Testimonials } from './Components';
+import { About, Contact, Experience, Footer, Header, Nav, Portfolio, Services, Testimonials } from './Components';
 
 export const App = () => {
   return (
@@ -8,8 +8,11 @@ export const App = () => {
     <Nav/>
     <About/>
     <Experience/>
+    <Services/>
+    <Portfolio/>
     <Testimonials/>
     <Contact/>
+    <Footer/>
     </>
   )
 }
