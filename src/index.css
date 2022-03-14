@@ -41,7 +41,7 @@ body{
     background: var(--color-bg-variant);
     color: var(--color-white);
     line-height: 1.7;
-    /* background-image: ; */
+    background-image: url('./Assets/images/cv.pdf');
 }
 
 
@@ -119,4 +119,32 @@ img{
     display: block;
     width: 100%;
     object-fit: cover;
+}
+
+
+
+
+/* =========== MEDIA QUERIES (MEDIUM DEVICES ============== */
+
+@media screen and (max-width: 1024px){
+    .container{
+        width: var(--container-width-md);
+    }
+
+    section{
+        margin-top: 6rem;
+    }
+}
+
+
+/* =========== MEDIA QUERIES (SMALL DEVICES ============== */
+
+@media screen and (max-width: 600px){
+    .container{
+        width: var(--container-width-sm);
+    }
+
+    section{
+     margin-bottom: 2rem;
+    }
 }
