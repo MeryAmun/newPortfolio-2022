@@ -1,9 +1,10 @@
 import cv from './images/cv.pdf';
-import me from './images/wendy.png';
+import me from './images/wendy1.png';
+import me2 from './images/wendy.png'
 
 
 
 
 export {
-    cv, me
+    cv, me, me2
 }
