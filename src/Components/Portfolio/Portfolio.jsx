@@ -10,15 +10,15 @@ const Portfolio = () => {
      <div className="container portfolio__container">
   {
     
-  resources.map((resource) => (
-    <article className="portfolio__item">
+  resources.map((resource, index) => (
+    <article className="portfolio__item" key={index}>
     <div className="portfolio__item-image">
       <img src={resource.image} alt="" />
     </div>
 <h3>{resource.title}</h3>
 <div className="portfolio__item-cta">
 <a href={resource.github} className="btn" target='_blank'>GitHub</a>
-<a href={resource.live} className="btn btn-primary" target='_blank'>Demo</a>
+<a href={resource.live} className="btn btn-primary" target='_blank'>Live Demo</a>
 </div>
 <p className="text-light">
   {resource.description}

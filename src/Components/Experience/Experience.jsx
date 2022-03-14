@@ -28,8 +28,8 @@ const Experience = () => {
        <div className="experience__backend">
          <div className="experience__content">
            {
-             dataBackend.map((item) => (
-              <article className="experience__details">
+             dataBackend.map((item, index) => (
+              <article className="experience__details" key={index}>
                 <div className="experience__details-icon">
                 {item.icon}
                 </div>

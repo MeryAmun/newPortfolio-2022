@@ -6,11 +6,14 @@ import { BiMessageSquareDetail } from 'react-icons/bi';
 import {FaAward} from 'react-icons/fa';
 import { FiUsers } from 'react-icons/fi';
 import { VscFolderLibrary } from 'react-icons/vsc';
-import { BsPatchCheckFill } from 'react-icons/bs'
+import { BsPatchCheckFill } from 'react-icons/bs';
+import { MdOutlineEmail } from 'react-icons/md';
+import { RiMessengerLine } from 'react-icons/ri';
+import { BsWhatsapp } from 'react-icons/bs';
 
 
 
 export {
     AiOutlineHome,AiOutlineUser,BiBook, RiServiceLine,BiMessageSquareDetail,
-    FaAward, FiUsers,VscFolderLibrary,BsPatchCheckFill
+    FaAward, FiUsers,VscFolderLibrary,BsPatchCheckFill, MdOutlineEmail, RiMessengerLine, BsWhatsapp
 }
