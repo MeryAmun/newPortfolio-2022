@@ -13,9 +13,13 @@ const Experience = () => {
            {
              dataFrontend.map((item) => (
               <article className="experience__details">
+               <div className="experience__details-icon">
                 {item.icon}
+                </div>
+              <div>
               <h4>{item.skill}</h4>
               <small className="text-light">{item.experience}</small>
+              </div>
             </article>
              ))
            }
@@ -26,9 +30,13 @@ const Experience = () => {
            {
              dataBackend.map((item) => (
               <article className="experience__details">
+                <div className="experience__details-icon">
                 {item.icon}
-              <h4>{item.skill}</h4>
+                </div>
+             <div>
+             <h4>{item.skill}</h4>
               <small className="text-light">{item.experience}</small>
+             </div>
             </article>
              ))
            }
