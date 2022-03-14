@@ -30,7 +30,9 @@ const About = () => {
               <small>20+ Completed Projects</small>
             </article>
           </div>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae saepe hic repudiandae itaque tempore autem amet nobis dolorum dignissimos, deserunt suscipit, sunt inventore eaque, voluptatibus quam necessitatibus? Explicabo, laboriosam impedit?</p>
+          <p>I am a Full Stack Mobile Web and Mobile App Developer, and am very enthusiastic about creating high-performing web and mobile applications using the bets technologies. The tech sector is vast and ever changing which requires constant learning and relearning. This is what is most exciting about Software Development
+            I am a good team player and also client relations.
+I am interested in Music, Politics,Agriculture, Sports, and I look forward to connecting with you</p>
        <a href="" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>

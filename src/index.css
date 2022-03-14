@@ -38,7 +38,8 @@ html{
 
 body{
     font-family: 'Poppins', sans-serif;
-    background: var(--color-bg-variant);
+    /* background: var(--color-bg-variant); */
+    background: black;
     color: var(--color-white);
     line-height: 1.7;
     background-image: url('./Assets/images/cv.pdf');
