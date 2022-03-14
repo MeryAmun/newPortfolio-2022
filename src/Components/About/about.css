@@ -26,6 +26,11 @@
 
 }
 
+.about__me img{
+    height: 360px;
+
+}
+
 .about__me-img:hover{
 transform: rotate(0);
 }

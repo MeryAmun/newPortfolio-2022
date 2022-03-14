@@ -16,8 +16,10 @@ const Portfolio = () => {
       <img src={resource.image} alt="" />
     </div>
 <h3>{resource.title}</h3>
+<div className="portfolio__item-cta">
 <a href={resource.github} className="btn" target='_blank'>GitHub</a>
 <a href={resource.live} className="btn btn-primary" target='_blank'>Demo</a>
+</div>
 <p className="text-light">
   {resource.description}
 </p>

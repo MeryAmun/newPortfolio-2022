@@ -1,6 +1,6 @@
 import cv from './images/cv.pdf';
 import me from './images/wendy1.png';
-import me2 from './images/wendy.png'
+import me2 from './images/wendy.jpg'
 import stock from './images/material.png'
 import stock1 from './images/material.png'
 import stock10 from './images/todo.jpg'
