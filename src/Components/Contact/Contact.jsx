@@ -1,9 +1,19 @@
-import React from 'react';
+import React, { useRef } from 'react';
 import './contact.css'
 import { BsWhatsapp, MdOutlineEmail, RiMessengerLine } from '../Nav';
+import emailjs from 'emailjs-com'
 
 const Contact = () => {
-  return (
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_xr4e20l', 'template_x7ywr4u', form.current, 'x_hwX49Ss0w32t96B')
+    e.target.reset()
+      
+  };
+  return ( 
     <section id="contact">
        <h5>Get in Touch</h5>
     <h2>Contact Me</h2>
@@ -29,7 +39,7 @@ const Contact = () => {
 </article>
       </div>
       {/* end of contact option */}
-      <form action="">
+      <form ref={form} onSubmit={sendEmail}>
         <input type="text"  name='name' placeholder='Your Full Name' required/>
         <input type="text"  name='email' placeholder='Your Full Email' required/>
 <textarea name="message" rows="7" placeholder='Your Message' required></textarea>

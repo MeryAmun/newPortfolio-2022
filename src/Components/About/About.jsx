@@ -33,7 +33,7 @@ const About = () => {
           <p>I am a Full Stack Mobile Web and Mobile App Developer, and am very enthusiastic about creating high-performing web and mobile applications using the bets technologies. The tech sector is vast and ever changing which requires constant learning and relearning. This is what is most exciting about Software Development
             I am a good team player and also client relations.
 I am interested in Music, Politics,Agriculture, Sports, and I look forward to connecting with you</p>
-       <a href="" className="btn btn-primary">Let's Talk</a>
+       <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
     </section>
