@@ -13,7 +13,9 @@
         transparent,
         var(--color-primary),
         transparent
+       
     );
+    height: 100%;
     display: grid;
     place-items: center;
 }
@@ -27,7 +29,7 @@
 }
 
 .about__me img{
-    max-height: 100%;
+    height: 100%;
 
 }
 
