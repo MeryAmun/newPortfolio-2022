@@ -5,7 +5,7 @@ import { FaFacebookF, FiGithub,IoLogoLinkedin } from '../Nav';
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className="footer__logo">____________________</a>
+      <a href="#" className="footer__logo">___________</a>
 <ul className="permalinks">
   <li><a href="#">Home</a></li>
   <li><a href="#about">About</a></li>
