@@ -19,6 +19,7 @@ import stock18 from './images/pwa2.jpg'
 import stock19 from './images/trade.jpg'
 import stock20 from './images/ux.jpg'
 import stock21 from './images/psd.jpg'
+import stock22 from './images/redux.jpg'
 
 
 
@@ -40,5 +41,6 @@ export {
     stock18,
     stock19,
     stock20,
-    stock21
+    stock21,
+    stock22
 }

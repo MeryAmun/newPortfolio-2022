@@ -24,13 +24,20 @@ import {
     stock17,
     stock18,
     stock19,
-    stock21
+    stock21,
+    stock22
   } from '../../Assets/index'
 
 
 
-
 export const resources = [
+  {
+    image: stock22,
+    github:'https://github.com/MeryAmun/Redux-shopping-Cart-2022',
+    live: ' https://redux-redux-toolkit-2022.netlify.app/',
+    title: 'React Redux with Redux Toolkit and Firebase',
+    description: 'Shopping Cart',
+  },
     {
       image: stock21,
       github:'https://github.com/MeryAmun/psd-html-2022',
