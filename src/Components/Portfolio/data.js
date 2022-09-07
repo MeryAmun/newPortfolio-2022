@@ -25,12 +25,35 @@ import {
     stock18,
     stock19,
     stock21,
-    stock22
+    stock22,
+    stock23,
+    stock24
   } from '../../Assets/index'
 
 
 
 export const resources = [
+  {
+    image: stock23,
+    github:'https://github.com/MeryAmun/youtube-clone',
+    live: ' https://real-youtube-clone-app-2022.netlify.app',
+    title: 'React, Rapid API and Material UI',
+    description: 'A YouTube clone',
+  },
+  {
+    image: stock20,
+    github:'https://github.com/MeryAmun/figma-react-resaurant-app-2022',
+    live: 'https://figma-react-restaurant-2022.netlify.app/',
+    title: 'Figma to React',
+    description: 'React  App  created by converting figma design',
+  },
+  {
+    image: stock13,
+    github:'https://github.com/MeryAmun/memories-2021',
+    live: 'https://memory-lane-2022.netlify.app/',
+    title: ' React, Redux Node Express Mongo db, (MERN Stack project)',
+    description: '  A social platform to share memories',
+  },
   {
     image: stock22,
     github:'https://github.com/MeryAmun/Redux-shopping-Cart-2022',
@@ -45,13 +68,7 @@ export const resources = [
       title: 'PhotoShop to HTML to Document',
       description: 'HTML and CSS document created by converting PhotoShop Design',
     },
-    {
-      image: stock20,
-      github:'https://github.com/MeryAmun/figma-react-resaurant-app-2022',
-      live: 'https://figma-react-restaurant-2022.netlify.app/',
-      title: 'Figma to React',
-      description: 'React  App  created by converting figma design',
-    },
+    
     {
       image: stock19,
       github:'https://github.com/MeryAmun/trading-app-2022',
@@ -66,13 +83,7 @@ export const resources = [
       title: ' Progressive Web Application With Vanilla JavaScript',
       description: 'Food Ninja  App',
     },
-    {
-      image: stock13,
-      github:'https://github.com/MeryAmun/memories-2021',
-      live: 'https://memory-lane-2022.netlify.app/',
-      title: ' React, Redux Node Express Mongo db, (MERN Stack project)',
-      description: '  A social platform to share memories',
-    },
+    
     {
       image: stock17,
       github:'https://github.com/MeryAmun/pwa-react',
