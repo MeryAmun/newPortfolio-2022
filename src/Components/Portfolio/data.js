@@ -48,6 +48,13 @@ export const resources = [
     description: 'React  App  created by converting figma design',
   },
   {
+    image: stock24,
+    github:'https://github.com/MeryAmun/workout-app-2022',
+    live: 'https://react-workout-app-2022.netlify.app/',
+    title: ' React, Rapid APIs,Material UI',
+    description: ' An application to help you  workout and keep the body healthy',
+  },
+  {
     image: stock13,
     github:'https://github.com/MeryAmun/memories-2021',
     live: 'https://memory-lane-2022.netlify.app/',
