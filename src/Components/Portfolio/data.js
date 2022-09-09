@@ -62,19 +62,71 @@ export const resources = [
     description: '  A social platform to share memories',
   },
   {
+    image: stock15,
+    github:'https://github.com/MeryAmun/ui-ux-2022',
+    live: 'https://ui-ux-figma-2022.netlify.app/',
+    title: 'UI/UX design, converting figma design to react Application',
+    description: 'GPT3 OpenAI',
+  },
+  {
+    image: stock14,
+    github:'htthttps://github.com/MeryAmun/react-crypto-siteps://github.com',
+    live: 'https://crpyto-universe-2021.netlify.app/',
+    title: 'React js, Rapid API, Redux Toolkit, using Ant Design for UI',
+    description:
+      'A website for all information and latest news about top Cryptocurrencies',
+  },
+  {
+    image: stock21,
+    github:'https://github.com/MeryAmun/psd-html-2022',
+    live: 'https://psd-html-2022.netlify.app/',
+    title: 'PhotoShop to HTML to Document',
+    description: 'HTML and CSS document created by converting PhotoShop Design',
+  },
+  {
+    image: stock16,
+    github:'https://github.com/MeryAmun/mern-2021',
+    live: 'https://react-node-bootstrapp-2022.netlify.app/',
+    title:
+      'A full Stack React Application with Node js, Express and Mongo db backend using Bootstrap for design',
+    description: 'A simple MERN web App',
+  },
+  {
+    image: stock12,
+    github:'https://github.com/MeryAmun/artificial-intelligence-app',
+    live: 'https://artificial-intelligence-2021.netlify.app/',
+    title: ' React,Alan API, Material UI',
+    description: '   Artificial Intelligence News App',
+  },
+  {
+    image: stock11,
+    github:'https://github.com/MeryAmun/typescript-cart',
+    live: 'https://typescript-cart101.netlify.app',
+    title: ' React,Typescript ',
+    description: ' Shopping Cart',
+  },
+  {
+    image: stock10,
+    github:'https://github.com/MeryAmun/typescript-todoApp',
+    live: 'https://typescrippt-todos101.netlify.app/',
+    title: ' React,Typescript ',
+    description: ' Todo List',
+  },
+  
+  {
     image: stock22,
     github:'https://github.com/MeryAmun/Redux-shopping-Cart-2022',
     live: ' https://redux-redux-toolkit-2022.netlify.app/',
     title: 'React Redux with Redux Toolkit and Firebase',
     description: 'Shopping Cart',
   },
-    {
-      image: stock21,
-      github:'https://github.com/MeryAmun/psd-html-2022',
-      live: 'https://psd-html-2022.netlify.app/',
-      title: 'PhotoShop to HTML to Document',
-      description: 'HTML and CSS document created by converting PhotoShop Design',
-    },
+  {
+    image: stock17,
+    github:'https://github.com/MeryAmun/pwa-react',
+    live: 'https://pwa-2022.netlify.app/',
+    title: 'React Progressive Web Application',
+    description: 'Realtime Weather App',
+  },
     
     {
       image: stock19,
@@ -91,63 +143,13 @@ export const resources = [
       description: 'Food Ninja  App',
     },
     
-    {
-      image: stock17,
-      github:'https://github.com/MeryAmun/pwa-react',
-      live: 'https://pwa-2022.netlify.app/',
-      title: 'React Progressive Web Application',
-      description: 'Realtime Weather App',
-    },
-    {
-      image: stock15,
-      github:'https://github.com/MeryAmun/ui-ux-2022',
-      live: 'https://ui-ux-figma-2022.netlify.app/',
-      title: 'UI/UX design, converting figma design to react Application',
-      description: 'GPT3 OpenAI',
-    },
+    
     {
       image: stock1,
       github:'https://github.com/MeryAmun/material-ui-2022',
       live: 'https://material-ui2022.netlify.app/',
       title: 'Material UI, Material Icons, and Material Styles',
       description: 'Album',
-    },
-    {
-      image: stock14,
-      github:'htthttps://github.com/MeryAmun/react-crypto-siteps://github.com',
-      live: 'https://crpyto-universe-2021.netlify.app/',
-      title: 'React js, Rapid API, Redux Toolkit, using Ant Design for UI',
-      description:
-        'A website for all information and latest news about top Cryptocurrencies',
-    },
-    {
-      image: stock16,
-      github:'https://github.com/MeryAmun/mern-2021',
-      live: 'https://react-node-bootstrapp-2022.netlify.app/',
-      title:
-        'A full Stack React Application with Node js, Express and Mongo db backend using Bootstrap for design',
-      description: 'A simple MERN web App',
-    },
-    {
-      image: stock12,
-      github:'https://github.com/MeryAmun/artificial-intelligence-app',
-      live: 'https://artificial-intelligence-2021.netlify.app/',
-      title: ' React,Alan API, Material UI',
-      description: '   Artificial Intelligence News App',
-    },
-    {
-      image: stock11,
-      github:'https://github.com/MeryAmun/typescript-cart',
-      live: 'https://typescript-cart101.netlify.app',
-      title: ' React,Typescript ',
-      description: ' Shopping Cart',
-    },
-    {
-      image: stock10,
-      github:'https://github.com/MeryAmun/typescript-todoApp',
-      live: 'https://typescrippt-todos101.netlify.app/',
-      title: ' React,Typescript ',
-      description: ' Todo List',
     },
   
     {
