@@ -18,7 +18,6 @@ import {
     stock16,
     stock4,
     stock6,
-    stock8,
     stock20,
     stock9,
     stock17,
@@ -158,13 +157,6 @@ export const resources = [
       live: 'https://yosemitelabs.netlify.app',
       title: ' React,Firebase',
       description: '  Pokemon World',
-    },
-    {
-      image: stock8,
-      github:'https://github.com',
-      live: 'https://www.blinte.com',
-      title: '  React,Redux Cloudinary Node, Express mysql',
-      description: 'Life style ',
     },
     {
       image: stock4,
