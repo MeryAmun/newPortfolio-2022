@@ -26,16 +26,24 @@ import {
     stock21,
     stock22,
     stock23,
-    stock24
+    stock24,
+  stock25
   } from '../../Assets/index'
 
 
 
 export const resources = [
   {
+    image: stock25,
+    github:'https://github.com/MeryAmun/admin-dashboard-2022',
+    live: 'https://react-admin-dashboard-2022.netlify.app/',
+    title: 'React, Syncfusion, Tailwind',
+    description: 'A React Admin Dashboard',
+  },
+  {
     image: stock23,
     github:'https://github.com/MeryAmun/youtube-clone',
-    live: ' https://real-youtube-clone-app-2022.netlify.app',
+    live: 'https://real-youtube-clone-app-2022.netlify.app',
     title: 'React, Rapid API and Material UI',
     description: 'A YouTube clone',
   },
