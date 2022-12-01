@@ -27,7 +27,9 @@ import {
     stock22,
     stock23,
     stock24,
-  stock25
+  stock25,
+  stock26,
+  stock27
   } from '../../Assets/index'
 
 
@@ -46,6 +48,20 @@ export const resources = [
     live: 'https://real-youtube-clone-app-2022.netlify.app',
     title: 'React, Rapid API and Material UI',
     description: 'A YouTube clone',
+  },
+  {
+    image: stock26,
+    github:'https://github.com/MeryAmun/geometry-app-2022',
+    live: 'https://simple-mern-geometry-app.netlify.app/',
+    title: 'React, Node Js, Express, Mongo Db, Bootstrap (Simple MERN Stack app)',
+    description: 'A Simple Full Stack Geometry Application to calculate Dimensions',
+  },
+  {
+    image: stock27,
+    github:'https://github.com/MeryAmun/agenda-test-2022',
+    live: 'https://react-csv-agenda-app.netlify.app/',
+    title: 'React, React-CSV Bootstrap',
+    description: 'A Simple CRUD  Agenda Application With export and import CSV functionality',
   },
   {
     image: stock20,
