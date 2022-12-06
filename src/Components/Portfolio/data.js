@@ -29,7 +29,8 @@ import {
     stock24,
   stock25,
   stock26,
-  stock27
+  stock27,
+  stock28
   } from '../../Assets/index'
 
 
@@ -55,6 +56,13 @@ export const resources = [
     live: 'https://simple-mern-geometry-app.netlify.app/',
     title: 'React, Node Js, Express, Mongo Db, Bootstrap (Simple MERN Stack app)',
     description: 'A Simple Full Stack Geometry Application to calculate Dimensions',
+  },
+  {
+    image: stock28,
+    github:'https://github.com/MeryAmun/tailwindcss-2022',
+    live: 'https://tailwindcss-html-2022.netlify.app/',
+    title: 'HTML, Node Js, Tailwindcss',
+    description: 'A Simple Tailwind Rocket app',
   },
   {
     image: stock27,
