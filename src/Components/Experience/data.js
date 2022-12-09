@@ -14,6 +14,9 @@ export const dataFrontend = [
         icon: <BsPatchCheckFill/>, skill:'MATERIAL UI', experience: 'Intermediate'
     },
     {
+        icon: <BsPatchCheckFill/>, skill:'TAILWIND CSS', experience: 'Intermediate'
+    },
+    {
         icon: <BsPatchCheckFill/>, skill:'JAVASCRIPT', experience: 'Intermediate'
     },
     {
