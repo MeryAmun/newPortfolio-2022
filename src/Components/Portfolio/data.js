@@ -30,12 +30,20 @@ import {
   stock25,
   stock26,
   stock27,
-  stock28
+  stock28,
+  stock29
   } from '../../Assets/index'
 
 
 
 export const resources = [
+  {
+    image: stock29,
+    github:'https://github.com/MeryAmun/google-play-movies-clone',
+    live: 'https://google-play-movies-clone.netlify.app/',
+    title: 'React, Swiper, Bootstrap',
+    description: 'Google Play Store Movies Desktop View',
+  },
   {
     image: stock25,
     github:'https://github.com/MeryAmun/admin-dashboard-2022',
