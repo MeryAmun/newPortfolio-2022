@@ -31,12 +31,28 @@ import {
   stock26,
   stock27,
   stock28,
-  stock29
+  stock29,
+  stock30,
+  stock31
   } from '../../Assets/index'
 
 
 
 export const resources = [
+  {
+    image: stock30,
+    github:'#',
+    live: 'https://virtualprogaming.com/',
+    title: 'React, Typescript, Bootstrap',
+    description: 'Virtual Pro Gaming',
+  },
+  {
+    image: stock31,
+    github:'#',
+    live: 'https://funic.co/',
+    title: 'Veu Veux',
+    description: 'School System',
+  },
   {
     image: stock29,
     github:'https://github.com/MeryAmun/google-play-movies-clone',

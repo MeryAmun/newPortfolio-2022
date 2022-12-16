@@ -27,6 +27,8 @@ import stock26 from './images/geometry.png'
 import stock27 from './images/csv.jpg'
 import stock28 from './images/tailwind.jpg'
 import stock29 from './images/google.jpg'
+import stock30 from './images/virtual.jpg'
+import stock31 from './images/funic.jpg'
 
 
 
@@ -56,5 +58,7 @@ export {
     stock26,
     stock27,
     stock28,
-    stock29
+    stock29,
+    stock30,
+    stock31
 }
