@@ -33,12 +33,20 @@ import {
   stock28,
   stock29,
   stock30,
-  stock31
+  stock31,
+  stock32
   } from '../../Assets/index'
 
 
 
 export const resources = [
+  {
+    image: stock32,
+    github:'https://github.com/MeryAmun/modern-bank-app-2023',
+    live: 'https://figma-bank-design.netlify.app/',
+    title: 'Figma to React, Tailwind CSS',
+    description: 'Banking App Landing Page',
+  },
   {
     image: stock30,
     github:'#',
@@ -54,17 +62,10 @@ export const resources = [
     description: 'School System',
   },
   {
-    image: stock29,
-    github:'https://github.com/MeryAmun/google-play-movies-clone',
-    live: 'https://google-play-movies-clone.netlify.app/',
-    title: 'React, Swiper, Bootstrap',
-    description: 'Google Play Store Movies Desktop View',
-  },
-  {
     image: stock25,
     github:'https://github.com/MeryAmun/admin-dashboard-2022',
     live: 'https://react-admin-dashboard-2022.netlify.app/',
-    title: 'React, Syncfusion, Tailwind',
+    title: 'React, Sync fusion, Tailwind',
     description: 'A React Admin Dashboard',
   },
   {
@@ -73,48 +74,6 @@ export const resources = [
     live: 'https://real-youtube-clone-app-2022.netlify.app',
     title: 'React, Rapid API and Material UI',
     description: 'A YouTube clone',
-  },
-  {
-    image: stock26,
-    github:'https://github.com/MeryAmun/geometry-app-2022',
-    live: 'https://simple-mern-geometry-app.netlify.app/',
-    title: 'React, Node Js, Express, Mongo Db, Bootstrap (Simple MERN Stack app)',
-    description: 'A Simple Full Stack Geometry Application to calculate Dimensions',
-  },
-  {
-    image: stock28,
-    github:'https://github.com/MeryAmun/tailwindcss-2022',
-    live: 'https://tailwindcss-html-2022.netlify.app/',
-    title: 'HTML, Node Js, Tailwindcss',
-    description: 'A Simple Tailwind Rocket app',
-  },
-  {
-    image: stock27,
-    github:'https://github.com/MeryAmun/agenda-test-2022',
-    live: 'https://react-csv-agenda-app.netlify.app/',
-    title: 'React, React-CSV Bootstrap',
-    description: 'A Simple CRUD  Agenda Application With export and import CSV functionality',
-  },
-  {
-    image: stock20,
-    github:'https://github.com/MeryAmun/figma-react-resaurant-app-2022',
-    live: 'https://figma-react-restaurant-2022.netlify.app/',
-    title: 'Figma to React',
-    description: 'React  App  created by converting figma design',
-  },
-  {
-    image: stock24,
-    github:'https://github.com/MeryAmun/workout-app-2022',
-    live: 'https://react-workout-app-2022.netlify.app/',
-    title: ' React, Rapid APIs,Material UI',
-    description: ' An application to help you  workout and keep the body healthy',
-  },
-  {
-    image: stock13,
-    github:'https://github.com/MeryAmun/memories-2021',
-    live: 'https://memory-lane-2022.netlify.app/',
-    title: ' React, Redux Node Express Mongo db, (MERN Stack project)',
-    description: '  A social platform to share memories',
   },
   {
     image: stock15,
@@ -139,12 +98,65 @@ export const resources = [
     description: 'HTML and CSS document created by converting PhotoShop Design',
   },
   {
+    image: stock13,
+    github:'https://github.com/MeryAmun/memories-2021',
+    live: 'https://memory-lane-2022.netlify.app/',
+    title: ' React, Redux Node Express Mongo db, (MERN Stack project)',
+    description: '  A social platform to share memories',
+  },
+  
+  {
+    image: stock26,
+    github:'https://github.com/MeryAmun/geometry-app-2022',
+    live: 'https://simple-mern-geometry-app.netlify.app/',
+    title: 'React, Node Js, Express, Mongo Db, Bootstrap (Simple MERN Stack app)',
+    description: 'A Simple Full Stack Geometry Application to calculate Dimensions',
+  },
+  {
+    image: stock20,
+    github:'https://github.com/MeryAmun/figma-react-resaurant-app-2022',
+    live: 'https://figma-react-restaurant-2022.netlify.app/',
+    title: 'Figma to React',
+    description: 'React  App  created by converting figma design',
+  },
+  {
+    image: stock24,
+    github:'https://github.com/MeryAmun/workout-app-2022',
+    live: 'https://react-workout-app-2022.netlify.app/',
+    title: ' React, Rapid APIs,Material UI',
+    description: ' An application to help you  workout and keep the body healthy',
+  },
+ 
+  
+  {
     image: stock16,
     github:'https://github.com/MeryAmun/mern-2021',
     live: 'https://react-node-bootstrapp-2022.netlify.app/',
     title:
       'A full Stack React Application with Node js, Express and Mongo db backend using Bootstrap for design',
     description: 'A simple MERN web App',
+  },
+  {
+    image: stock28,
+    github:'https://github.com/MeryAmun/tailwindcss-2022',
+    live: 'https://tailwindcss-html-2022.netlify.app/',
+    title: 'HTML, Node Js, Tailwindcss',
+    description: 'A Simple Tailwind Rocket app',
+  },
+  {
+    image: stock27,
+    github:'https://github.com/MeryAmun/agenda-test-2022',
+    live: 'https://react-csv-agenda-app.netlify.app/',
+    title: 'React, React-CSV Bootstrap',
+    description: 'A Simple CRUD  Agenda Application With export and import CSV functionality',
+  },
+  
+  {
+    image: stock29,
+    github:'https://github.com/MeryAmun/google-play-movies-clone',
+    live: 'https://google-play-movies-clone.netlify.app/',
+    title: 'React, Swiper, Bootstrap',
+    description: 'Google Play Store Movies Desktop View',
   },
   {
     image: stock12,
