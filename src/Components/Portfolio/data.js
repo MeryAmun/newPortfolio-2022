@@ -34,12 +34,20 @@ import {
   stock29,
   stock30,
   stock31,
-  stock32
+  stock32,
+  stock33
   } from '../../Assets/index'
 
 
 
 export const resources = [
+  {
+    image: stock33,
+    github:'https://github.com/MeryAmun/discord-clone',
+    live: 'https://discord-clone-ea63c.web.app',
+    title: 'React, CSS, Material UI',
+    description: 'Discord Clone',
+  },
   {
     image: stock32,
     github:'https://github.com/MeryAmun/modern-bank-app-2023',

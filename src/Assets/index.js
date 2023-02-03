@@ -30,6 +30,7 @@ import stock29 from './images/google.jpg'
 import stock30 from './images/virtual.jpg'
 import stock31 from './images/funic.jpg'
 import stock32 from './images/bill.png'
+import stock33 from './images/discord.jpg'
 
 
 
@@ -62,5 +63,6 @@ export {
     stock29,
     stock30,
     stock31,
-    stock32
+    stock32,
+    stock33,
 }
