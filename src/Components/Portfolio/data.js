@@ -45,7 +45,7 @@ export const resources = [
     image: stock33,
     github:'https://github.com/MeryAmun/discord-clone',
     live: 'https://discord-clone-ea63c.web.app',
-    title: 'React, CSS, Material UI',
+    title: 'React, CSS, Material UI, Firebase',
     description: 'Discord Clone',
   },
   {
