@@ -35,12 +35,20 @@ import {
   stock30,
   stock31,
   stock32,
-  stock33
+  stock33,
+  stock34
   } from '../../Assets/index'
 
 
 
 export const resources = [
+  {
+    image: stock34,
+    github:'https://github.com/MeryAmun/tiktok-clone',
+    live: 'https://tiktok-clone-7fe70.web.app',
+    title: 'React, CSS, Material UI, Firebase',
+    description: 'Tik Tok Clone',
+  },
   {
     image: stock33,
     github:'https://github.com/MeryAmun/discord-clone',
