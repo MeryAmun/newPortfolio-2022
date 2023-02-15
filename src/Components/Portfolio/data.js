@@ -36,12 +36,20 @@ import {
   stock31,
   stock32,
   stock33,
-  stock34
+  stock34,
+  stock35
   } from '../../Assets/index'
 
 
 
 export const resources = [
+  {
+    image: stock35,
+    github:'https://github.com/MeryAmun/maki-clone',
+    live: 'https://maki-clone-23.netlify.app/',
+    title: 'React, CSS, Material UI, Feather Icons',
+    description: 'Maki Landing Page Clone',
+  },
   {
     image: stock34,
     github:'https://github.com/MeryAmun/tiktok-clone',
