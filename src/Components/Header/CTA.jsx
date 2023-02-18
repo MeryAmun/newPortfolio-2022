@@ -1,5 +1,5 @@
 import React from 'react';
-import {cv} from '../../Assets/index'
+import { cv } from '../../Assets';
 import './header.css'
 
 const CTA = () => {
