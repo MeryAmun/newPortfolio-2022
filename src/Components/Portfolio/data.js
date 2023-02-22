@@ -58,13 +58,7 @@ export const resources = [
     title: 'React, CSS, Material UI, Feather Icons',
     description: 'Maki Landing Page Clone',
   },
-  {
-    image: stock34,
-    github:'https://github.com/MeryAmun/tiktok-clone',
-    live: 'https://tiktok-clone-7fe70.web.app',
-    title: 'React, CSS, Material UI, Firebase',
-    description: 'Tik Tok Clone',
-  },
+  
   {
     image: stock33,
     github:'https://github.com/MeryAmun/discord-clone',
@@ -106,6 +100,13 @@ export const resources = [
     live: 'https://real-youtube-clone-app-2022.netlify.app',
     title: 'React, Rapid API and Material UI',
     description: 'A YouTube clone',
+  },
+  {
+    image: stock34,
+    github:'https://github.com/MeryAmun/tiktok-clone',
+    live: 'https://tiktok-clone-7fe70.web.app',
+    title: 'React, CSS, Material UI, Firebase',
+    description: 'Tik Tok Clone',
   },
   {
     image: stock15,
