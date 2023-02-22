@@ -37,12 +37,20 @@ import {
   stock32,
   stock33,
   stock34,
-  stock35
+  stock35,
+  stock36
   } from '../../Assets/index'
 
 
 
 export const resources = [
+  {
+    image: stock36,
+    github:'https://github.com/MeryAmun/instagram-clone',
+    live: 'https://instagram-clone-e0fb1.web.app/',
+    title: 'React, CSS, Material UI, Firebase',
+    description: 'An Instagram Clone',
+  },
   {
     image: stock35,
     github:'https://github.com/MeryAmun/maki-clone',
