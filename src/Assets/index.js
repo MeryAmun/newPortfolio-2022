@@ -1,4 +1,4 @@
-import cv from './images/Chebesi.docx.pdf';
+import cv from './images/Chebesi-Awah.pdf';
 import me from './images/wendy1.png';
 import me2 from './images/wendy.jpg'
 import stock from './images/material.png'
