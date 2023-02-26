@@ -34,6 +34,7 @@ import stock33 from './images/discord.jpg'
 import stock34 from './images/tiktok.jpg'
 import stock35 from './images/maki.jpg'
 import stock36 from './images/instagram.jpg'
+import stock37 from './images/covid.jpg'
 
 
 
@@ -71,4 +72,5 @@ export {
     stock34,
     stock35,
     stock36,
+    stock37
 }

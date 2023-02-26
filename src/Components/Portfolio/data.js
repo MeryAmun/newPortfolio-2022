@@ -38,12 +38,20 @@ import {
   stock33,
   stock34,
   stock35,
-  stock36
+  stock36,
+  stock37
   } from '../../Assets/index'
 
 
 
 export const resources = [
+  {
+    image: stock37,
+    github:'https://github.com/MeryAmun/covid-tracker',
+    live: 'https://covid-tracker-new-web.netlify.app/',
+    title: 'React, CSS, Material UI, Disease.sh open API for disease-related statistics',
+    description: 'A Covid-19 Tracker Web App',
+  },
   {
     image: stock36,
     github:'https://github.com/MeryAmun/instagram-clone',
