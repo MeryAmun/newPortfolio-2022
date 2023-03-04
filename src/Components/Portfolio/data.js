@@ -39,12 +39,20 @@ import {
   stock34,
   stock35,
   stock36,
-  stock37
+  stock37,
+  stock38
   } from '../../Assets/index'
 
 
 
 export const resources = [
+  {
+    image: stock38,
+    github:'https://github.com/MeryAmun/spotify-clone',
+    live: 'https://spotify-clone-wave.netlify.app/',
+    title: 'React, CSS, Material UI, Spotify API For Developers',
+    description: 'A Spotify Clone',
+  },
   {
     image: stock37,
     github:'https://github.com/MeryAmun/covid-tracker',
