@@ -50,7 +50,7 @@ export const resources = [
     image: stock38,
     github:'https://github.com/MeryAmun/spotify-clone',
     live: 'https://spotify-clone-wave.netlify.app/',
-    title: 'React, CSS, Material UI, Spotify API For Developers',
+    title: 'React, CSS, Material UI,React Context API, Spotify Web API For Developers',
     description: 'A Spotify Clone',
   },
   {
