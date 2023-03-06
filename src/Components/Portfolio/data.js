@@ -40,12 +40,20 @@ import {
   stock35,
   stock36,
   stock37,
-  stock38
+  stock38,
+  stock39
   } from '../../Assets/index'
 
 
 
 export const resources = [
+  {
+    image: stock39,
+    github:'https://github.com/MeryAmun/tesla-clone',
+    live: 'https://tesla-clone-wave.netlify.app/',
+    title: 'React, Styled Components, Material UI Icons,Redux Toolkit',
+    description: 'A Tesla Clone',
+  },
   {
     image: stock38,
     github:'https://github.com/MeryAmun/spotify-clone',

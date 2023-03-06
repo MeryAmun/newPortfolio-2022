@@ -1,6 +1,7 @@
 import React from 'react';
 import './experience.css'
  import dataFrontend, { dataBackend } from './data'
+ import Roll from 'react-reveal/Roll';
 
 const Experience = () => {
   return (
@@ -8,6 +9,7 @@ const Experience = () => {
      <h5>My Skills</h5>
      <h2>My Experience</h2>
      <div className="container experience__container">
+       <Roll left>
        <div className="experience__frontend">
          <div className="experience__content">
            {
@@ -25,6 +27,8 @@ const Experience = () => {
            }
          </div>
        </div>
+       </Roll>
+       <Roll right>
        <div className="experience__backend">
          <div className="experience__content">
            {
@@ -42,6 +46,7 @@ const Experience = () => {
            }
          </div>
        </div>
+       </Roll>
      </div>
    </section>
   )

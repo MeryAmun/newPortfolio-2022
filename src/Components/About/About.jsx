@@ -2,6 +2,7 @@ import React from 'react';
 import './about.css'
 import { me2} from '../../Assets/index'
 import { FaAward, FiUsers, VscFolderLibrary } from "../Nav/index";
+import Slide from 'react-reveal/Slide'
 
 const About = () => {
   return (
@@ -9,10 +10,13 @@ const About = () => {
       <h5>What you need to know</h5>
       <h2>About Me</h2>
       <div className="container about__container">
-        <div className="about__me">
-          <img src={me2} alt="About Image" className="about__me-img" />
+       <Slide right>
+       <div className="about__me">
+          <img src={me2} alt="About" className="about__me-img" />
         </div>
-        <div className="about__content">
+       </Slide>
+       <Slide left>
+       <div className="about__content">
           <div className="about__cards">
             <article className="about__card">
               <FaAward className='about__icon'/>
@@ -35,6 +39,7 @@ const About = () => {
 I am interested in Music, Politics,Agriculture, Sports, and I look forward to connecting with you</p>
        <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
+       </Slide>
       </div>
     </section>
   )
