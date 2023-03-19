@@ -53,7 +53,7 @@ export const resources = [
     github:'https://github.com/MeryAmun/alex-project',
     live: 'https://altar-clone.netlify.app/',
     title: 'React, Styled Components, Material UI ,React Icons,CSS3',
-    description: 'Altar.io Clone',
+    description: 'Altar.io Landing Page Clone',
   },
   {
     image: stock39,
