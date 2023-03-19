@@ -41,12 +41,20 @@ import {
   stock36,
   stock37,
   stock38,
-  stock39
+  stock39,
+  stock40
   } from '../../Assets/index'
 
 
 
 export const resources = [
+  {
+    image: stock40,
+    github:'https://github.com/MeryAmun/alex-project',
+    live: 'https://altar-clone.netlify.app/',
+    title: 'React, Styled Components, Material UI ,React Icons,CSS3',
+    description: 'Altar.io Clone',
+  },
   {
     image: stock39,
     github:'https://github.com/MeryAmun/tesla-clone',
