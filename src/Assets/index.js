@@ -38,5 +38,6 @@ export { default as stock37 }  from './images/covid.jpg'
 export { default as stock38 }   from './images/spotify.png'
 export { default as stock39 }   from './images/tesla.png'
 export { default as stock40 }   from './images/altar.jpg'
+export { default as stock41 }   from './images/google2.jpeg'
 
 
