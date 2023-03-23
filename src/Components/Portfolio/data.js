@@ -54,7 +54,7 @@ export const resources = [
     github:'https://github.com/MeryAmun/google-clone',
     live: 'https://mi-google-clone.netlify.app/',
     title: 'React, Context API, Material UI,Redux,CSS3,Google Custom Search API',
-    description: 'A Google Clone',
+    description: 'Google Search Clone',
   },
   {
     image: stock40,
@@ -68,14 +68,14 @@ export const resources = [
     github:'https://github.com/MeryAmun/tesla-clone',
     live: 'https://tesla-clone-wave.netlify.app/',
     title: 'React, Styled Components, Material UI Icons,Redux Toolkit',
-    description: 'A Tesla Clone',
+    description: 'Tesla Clone',
   },
   {
     image: stock38,
     github:'https://github.com/MeryAmun/spotify-clone',
     live: 'https://spotify-clone-wave.netlify.app/',
     title: 'React, CSS, Material UI,React Context API, Spotify Web API For Developers',
-    description: 'A Spotify Clone',
+    description: 'Spotify Clone',
   },
   {
     image: stock37,
