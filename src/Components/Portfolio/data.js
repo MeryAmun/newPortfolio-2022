@@ -43,12 +43,20 @@ import {
   stock38,
   stock39,
   stock40,
-  stock41
+  stock41,
+  stock42
   } from '../../Assets/index'
 
 
 
 export const resources = [
+  {
+    image: stock42,
+    github:'https://github.com/MeryAmun/krypto-web3.0',
+    live: 'https://krypt-2cb4a.web.app/',
+    title: 'React, Context API,TailwindCss,CSS3,Hardhat, Solidity',
+    description: 'Modern Web 3.0 Blockchain App | Solidity,Ethereum Smart Contracts, Crypto',
+  },
   {
     image: stock41,
     github:'https://github.com/MeryAmun/google-clone',
